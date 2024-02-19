@@ -54,6 +54,7 @@ public class terrenos {
         } else {
         	System.out.println("La dimensión A debe ser mayor que la dimensión C.");
         }
+        scanner.close();
         }
 }
 

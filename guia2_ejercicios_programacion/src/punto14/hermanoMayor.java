@@ -19,15 +19,15 @@ public class hermanoMayor {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-        System.out.println("Ingrese el nombre y la edad del primer hermano: ");
+        System.out.println("Ingrese nombre y edad del primer hermano: ");
         String nombre1 = scanner.next();
         int edad1 = scanner.nextInt();
         
-        System.out.println("Ingrese el nombre y la edad del segundo hermano: ");
+        System.out.println("Ingrese nombre y edad del segundo hermano: ");
         String nombre2 = scanner.next();
         int edad2 = scanner.nextInt();
         
-        System.out.println("Ingrese el nombre y la edad del tercer hermano: ");
+        System.out.println("Ingrese nombre y edad del tercer hermano: ");
         String nombre3 = scanner.next();
         int edad3 = scanner.nextInt();
 
